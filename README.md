@@ -29,6 +29,7 @@
 
 ## &#x1f4c8; GitHub Stats
 
+<p align="center">
 <a href="https://github.com/abdelkrimtouat/abdelkrimtouat.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelkrimtouat&hide_border=true&count_private=true&show_icons=true&theme=gotham" alt="Abdelkrim's GitHub Stats" />
 </a>
