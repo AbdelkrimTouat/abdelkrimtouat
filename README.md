@@ -34,4 +34,4 @@
 </a>
 <a href="https://github.com/abdelkrimtouat/abdelkrimtouat.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelkrimtouat&hide_border=true&count_private=true&show_icons=true&theme=gotham&langs_count=3" />
-</a>
+</a
