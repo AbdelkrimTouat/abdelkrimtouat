@@ -22,6 +22,20 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> 
 </a>
+<!-- Streamlit -->
+<a href="https://streamlit.io" target="_blank" rel="noreferrer"> 
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="40" height="40"/> 
+</a>
+
+<!-- OpenCV -->
+<a href="https://opencv.org" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/> 
+</a>
+
+<!-- MongoDB -->
+<a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
+</a>
 
 
 
