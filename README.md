@@ -1,7 +1,7 @@
 <h1 align="center"> Hello, I'm Abdelkrim Touat <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" </h1>
 
 
-#### I'm a Computer Science student at USTHB, Artificial Intelligence passionate and Software engineer.
+#### I'm a Data science & Ai master student at USTHB,  Software engineer. & UI UX designer 
 
 ## 🔧 Technologies & Tools
 
